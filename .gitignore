@@ -1,0 +1,15 @@
+# Data files
+*.tar.gz
+data/
+__pycache__/
+
+# Model checkpoints (too large for GitHub)
+*.pt
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Cursor
+.cursor/
+
